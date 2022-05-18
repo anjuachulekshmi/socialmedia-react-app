@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const Searchpost = () => {
   return (
     <div>
+        <Navbar/>
          <div>
         
         <div className="container">
